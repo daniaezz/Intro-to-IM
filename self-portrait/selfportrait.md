@@ -10,3 +10,6 @@ __[code for the portrait](https://editor.p5js.org/daniaezz/sketches/KZc_kQgEB)__
 
 
 __[view portrait on the web](https://editor.p5js.org/daniaezz/full/KZc_kQgEB)__
+
+
+![image](https://github.com/daniaezz/Intro-to-IM/blob/main/self-portrait/self%20portrait.png)

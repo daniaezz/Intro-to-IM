@@ -7,4 +7,6 @@ the idea behind this piece was a plant-based face portrait. This idea was inspir
 
 
 __[code for the portrait](https://editor.p5js.org/daniaezz/sketches/KZc_kQgEB)__
+
+
 __[view portrait on the web](https://editor.p5js.org/daniaezz/full/KZc_kQgEB)__

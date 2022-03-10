@@ -1,4 +1,4 @@
-# Midterm project
+# Midterm project -- Shiken Boi
 ---
 ### Sunday 27 Feb update
 I have finalized the story for the game I will be making. The story will have the user as a character that woke up to find themselves turning into a chicken. To turn back into a human, the chicken boy seeks help from a witch but the witch has a condition, the chicken must find the witch’s cat. 

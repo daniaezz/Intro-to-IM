@@ -30,3 +30,11 @@ Bulb a 10 min after adding water
 
 <img width="547" alt="Screen Shot 2022-03-28 at 12 00 18 PM" src="https://user-images.githubusercontent.com/90758857/160353146-f6925c42-f93e-458a-a11d-202cfcc8eb05.png">
 
+---
+### Video
+[youtube video](https://youtube.com/shorts/6jageSGxvqU?feature=share)
+
+https://user-images.githubusercontent.com/90758857/160354339-1c793723-6bb5-433a-ab4b-c5e195ed34f9.mp4
+
+
+

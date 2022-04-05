@@ -8,6 +8,9 @@ For this assignment, I tried to recreate a traffic signal system using a photore
 
 
 
+### The Circuit
+<img width="663" alt="Screen Shot 2022-04-05 at 11 52 18 AM" src="https://user-images.githubusercontent.com/90758857/161705601-3d4def58-dc73-441c-b4ea-f514336fe3e1.png">
+
 
 
 

@@ -1,6 +1,3 @@
-const int REDP = 2;
-const int YELLOWP = 6;
-const int GREENP = 4;
 const int REDB = 8;
 const int YELLOWB = 10;
 const int GREENB = 12;
@@ -12,9 +9,6 @@ int inc = 0;
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(REDP, OUTPUT);
-  pinMode(YELLOWP, OUTPUT);
-  pinMode(GREENP, OUTPUT);
   pinMode(REDB, OUTPUT);
   pinMode(YELLOWB, OUTPUT);
   pinMode(GREENB, OUTPUT);

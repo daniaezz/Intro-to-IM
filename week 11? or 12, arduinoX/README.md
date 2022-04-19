@@ -19,5 +19,6 @@
 ### Exercise 3
 
 [link to p5.js editior](https://editor.p5js.org/daniaezz/sketches/5r4lLdIxN)
+[link to video](https://youtu.be/RJ_i_b4EhpE)
 
 

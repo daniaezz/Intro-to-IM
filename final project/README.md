@@ -32,3 +32,7 @@ Our project is going to be a cooking game where you perform the actions and they
 - Similar to the mechanics used in the salad, the fruits will drop into the blender as they lift the cutting board
 - They will be able to turn on the blender using a potentiometer, blending the smoothie for too long will turn it into a yogurt and the score will be reduced 
 - The user can also take a small drink umbrella, the umbrella will have a thank you note on it and taking it will automatically add one to the drink on p5.js 
+
+
+
+# [FINAL PROJECT DOCUMENTATION](https://github.com/daniaezz/Intro-to-IM-Final-Project)
